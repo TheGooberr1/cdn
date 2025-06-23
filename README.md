@@ -1,6 +1,6 @@
 **CDN Repo**
 ============
-Status : `git status`
+Status : `gitstatus`
 
 > This repository is used for things in relation to CDNs
 ============
