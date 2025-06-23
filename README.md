@@ -1,1 +1,4 @@
-<h1 style="text-align: center;"><strong>CDN Repo</strong></h1>
+**CDN Repo**
+============
+
+> This repository is used for things in relation to CDNs
